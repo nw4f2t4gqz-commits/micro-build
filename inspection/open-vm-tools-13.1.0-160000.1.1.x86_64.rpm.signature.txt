@@ -1,0 +1,7 @@
+packages/candidates/open-vm-tools-13.1.0-160000.1.1.x86_64.rpm:
+    Header V3 RSA/SHA512 Signature, key ID 09d9ea69: OK
+    Header SHA256 digest: OK
+    Header SHA1 digest: OK
+    Payload SHA256 digest: OK
+    V3 RSA/SHA512 Signature, key ID 09d9ea69: OK
+    MD5 digest: OK

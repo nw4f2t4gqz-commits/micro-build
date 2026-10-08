@@ -1,0 +1,7 @@
+media/packages/x86_64/libvmtools0-13.0.0-160000.2.2.x86_64.rpm:
+    Header V3 RSA/SHA256 Signature, key ID 09d9ea69: OK
+    Header SHA256 digest: OK
+    Header SHA1 digest: OK
+    Payload SHA256 digest: OK
+    V3 RSA/SHA256 Signature, key ID 09d9ea69: OK
+    MD5 digest: OK

@@ -1,0 +1,11 @@
+<directory name="SL-Micro" rev="f20fd430845c88fcda62d025b7ac6631" srcmd5="f20fd430845c88fcda62d025b7ac6631">
+  <entry name="LICENSE" md5="dd56cf2476a0641019bd082e9aff122f" size="1023" mtime="1710436565"/>
+  <entry name="SL-Micro.kiwi" md5="f465de9969e145f21a0476ed9d3f5762" size="59258" mtime="1790913796"/>
+  <entry name="_constraints" md5="8aeb7f63b5b44bb30082a7a5cdeaefcf" size="102" mtime="1725282850"/>
+  <entry name="_multibuild" md5="71241495c5d43443d971400ca3455a92" size="1781" mtime="1790913796"/>
+  <entry name="_scmsync.obsinfo" md5="2a3046de1bc5b3c96b26365147f62ee3" size="170" mtime="1790913796"/>
+  <entry name="config.sh" md5="84df27609eb97327dcbe56a0ffdad16d" size="11839" mtime="1790913796"/>
+  <entry name="disk.sh" md5="689e877fab36bdeb1bc304732ea8be9b" size="1152" mtime="1750840688"/>
+  <entry name="editbootinstall_pine64.sh" md5="b7885992e65ee3831003f9abe3a6d556" size="1006" mtime="1710436565"/>
+  <entry name="editbootinstall_rpi.sh" md5="c64b62cac9116dd40ce41ec716d3e59e" size="1035" mtime="1710436565"/>
+</directory>

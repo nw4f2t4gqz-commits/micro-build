@@ -1,0 +1,26 @@
+--- a/SL-Micro.kiwi
++++ b/SL-Micro.kiwi
+@@ -1283,7 +1283,7 @@
+     </packages>
+ 
+     <!-- bsc#1221936 -->
+-    <packages type="image" profiles="x86-vmware">
++    <packages type="image" profiles="x86-vmware,x86-self_install">
+         <package name="open-vm-tools"/>
+     </packages>
+ 
+--- a/config.sh
++++ b/config.sh
+@@ -94,8 +94,12 @@
+ 
+ systemctl enable NetworkManager
+ systemctl enable ModemManager
+ 
++if [[ "$kiwi_profiles" =~ (^|[[:space:],])x86-self_install($|[[:space:],]) ]]; then
++    systemctl enable vmtoolsd.service
++fi
++
+ #======================================
+ # Enable cloud-init
+ #--------------------------------------
+ suseInsertService cloud-init-local

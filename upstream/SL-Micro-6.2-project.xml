@@ -1,0 +1,32 @@
+<project name="SUSE:SLFO:Products:SL-Micro:6.2">
+  <title>Products for SLFO SL-Micro 6.2</title>
+  <description>Products for SLFO SL-Micro 6.2</description>
+  <person userid="mstrigl" role="maintainer"/>
+  <group groupid="autobuild-team" role="maintainer"/>
+  <build>
+    <disable/>
+  </build>
+  <publish>
+    <disable/>
+  </publish>
+  <debuginfo>
+    <enable/>
+  </debuginfo>
+  <repository name="standard">
+    <path project="SUSE:SLFO:1.2" repository="standard"/>
+    <arch>aarch64</arch>
+    <arch>i586</arch>
+    <arch>ppc64le</arch>
+    <arch>s390x</arch>
+    <arch>x86_64</arch>
+  </repository>
+  <repository name="images">
+    <path project="SUSE:SLFO:Products:SL-Micro:6.2" repository="standard"/>
+    <arch>local</arch>
+    <arch>aarch64</arch>
+    <arch>i586</arch>
+    <arch>ppc64le</arch>
+    <arch>s390x</arch>
+    <arch>x86_64</arch>
+  </repository>
+</project>

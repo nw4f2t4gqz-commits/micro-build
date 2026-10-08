@@ -1,0 +1,21 @@
+<binarylist>
+  <binary filename="_buildenv" size="224115" mtime="1782141091"/>
+  <binary filename="_slsa_provenance.config" size="140422" mtime="1782141091"/>
+  <binary filename="_slsa_provenance.json" size="327809" mtime="1782141093"/>
+  <binary filename="_statistics" size="1614" mtime="1782141091"/>
+  <binary filename="libvmtools-devel-13.1.0-160000.1.1.x86_64.rpm" size="283948" mtime="1782141091"/>
+  <binary filename="libvmtools0-13.1.0-160000.1.1.x86_64.rpm" size="516723" mtime="1782141091"/>
+  <binary filename="libvmtools0-debuginfo-13.1.0-160000.1.1.x86_64.rpm" size="1190891" mtime="1782141092"/>
+  <binary filename="open-vm-tools-13.1.0-160000.1.1.src.rpm" size="3380843" mtime="1782141092"/>
+  <binary filename="open-vm-tools-13.1.0-160000.1.1.x86_64.rpm" size="587711" mtime="1782141092"/>
+  <binary filename="open-vm-tools-containerinfo-13.1.0-160000.1.1.x86_64.rpm" size="201454" mtime="1782141092"/>
+  <binary filename="open-vm-tools-containerinfo-debuginfo-13.1.0-160000.1.1.x86_64.rpm" size="1578954" mtime="1782141092"/>
+  <binary filename="open-vm-tools-debuginfo-13.1.0-160000.1.1.x86_64.rpm" size="1014453" mtime="1782141092"/>
+  <binary filename="open-vm-tools-debugsource-13.1.0-160000.1.1.x86_64.rpm" size="1620819" mtime="1782141092"/>
+  <binary filename="open-vm-tools-desktop-13.1.0-160000.1.1.x86_64.rpm" size="227839" mtime="1782141092"/>
+  <binary filename="open-vm-tools-desktop-debuginfo-13.1.0-160000.1.1.x86_64.rpm" size="1078367" mtime="1782141093"/>
+  <binary filename="open-vm-tools-salt-minion-13.1.0-160000.1.1.x86_64.rpm" size="103341" mtime="1782141093"/>
+  <binary filename="open-vm-tools-sdmp-13.1.0-160000.1.1.x86_64.rpm" size="101196" mtime="1782141093"/>
+  <binary filename="open-vm-tools-sdmp-debuginfo-13.1.0-160000.1.1.x86_64.rpm" size="107214" mtime="1782141093"/>
+  <binary filename="rpmlint.log" size="8699" mtime="1782141089"/>
+</binarylist>

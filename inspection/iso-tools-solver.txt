@@ -1,0 +1,18 @@
+Loading repository data...
+Reading installed packages...
+Resolving package dependencies...
+
+The following 47 NEW packages are going to be installed:
+  bash bash-sh compat-usrmerge-tools coreutils crypto-policies filesystem glibc hostname krb5 libacl1 libattr1 libcap2 libcom_err2 libdrm2 libffi8 libfuse3-3 libgcc_s1 libglib-2_0-0 libgmodule-2_0-0 libgmp10 libgobject-2_0-0 libjitterentropy3 libkeyutils1 libltdl7 liblzma5 libmspack0 libncurses6 libopenssl3 libpcre2-8-0 libreadline8 libselinux1 libtirpc3 libtirpc-netconfig libudev1 libverto1 libvmtools0 libxml2-2 libxmlsec1-1 libxmlsec1-openssl1 libxslt1 libz1 net-tools open-vm-tools system-user-root tar terminfo-base which
+
+47 new packages to install.
+Overall download size: 15.8 MiB. Already cached: 0 B. After the operation, additional 40.2 MiB will be used.
+Continue? [y/n/v/...? shows all options] (y): y
+
+Checking for file conflicts: [...done]
+Warning: 47 packages had to be excluded from file conflicts check because they are not yet downloaded.
+
+    Note: Checking for file conflicts requires not installed packages to be downloaded in advance in
+    order to access their file lists. See option '--download-in-advance / --dry-run --download-only'
+    in the zypper manual page for details.
+

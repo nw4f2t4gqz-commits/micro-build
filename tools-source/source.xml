@@ -1,0 +1,20 @@
+<directory name="open-vm-tools" rev="1022713899c17af2ef74652258dad48f" srcmd5="1022713899c17af2ef74652258dad48f">
+  <entry name="_scmsync.obsinfo" md5="62cb52a2d09f60d1d942d470feffa57b" size="295" mtime="1782179787"/>
+  <entry name="_service" md5="5972a645f24ec150ea8d447982098849" size="648" mtime="1778829858"/>
+  <entry name="build.specials.obscpio" md5="0276012ff7761078fd0f6007cdb48eb0" size="256" mtime="1780094282"/>
+  <entry name="detect-suse-location.patch" md5="c4d0447685a8b0c1e1ab21ad92043a0f" size="2185" mtime="1744904780"/>
+  <entry name="glibc243.patch" md5="3097e28669618c0722460601032f8d34" size="5375" mtime="1777291485"/>
+  <entry name="open-vm-tools-13.1.0.obscpio" md5="86541e95fbccf6c8438ce3a005780d40" size="14456333" mtime="1778829863"/>
+  <entry name="open-vm-tools-modprobe.conf" md5="b0209ace275d68946b7f67daad5d4b20" size="128" mtime="1306847393"/>
+  <entry name="open-vm-tools.changes" md5="f232f6ac0cebc90ed110e89364213bd7" size="103316" mtime="1778890444"/>
+  <entry name="open-vm-tools.obsinfo" md5="1602062439f13d37bde794f9cb9b5a54" size="103" mtime="1778829863"/>
+  <entry name="open-vm-tools.spec" md5="34cd73d653f91c8241cbf79d8b80c259" size="19963" mtime="1778829863"/>
+  <entry name="pam-vmtoolsd.patch" md5="839c5217f3e80a1819085605436d7825" size="471" mtime="1624544238"/>
+  <entry name="tools.conf" md5="a1cf35237393c4ba329e722ec9d1f2d4" size="1471" mtime="1333137968"/>
+  <entry name="vgauthd.service" md5="d6c1654d425899339960fd4d7a918013" size="298" mtime="1465883364"/>
+  <entry name="vmblock-fuse.service" md5="f752175f0b213b1f8299e52ba6ac205d" size="484" mtime="1624544239"/>
+  <entry name="vmtoolsd" md5="3da4d81c914f975fb877c74e393e1b89" size="5473" mtime="1468434417"/>
+  <entry name="vmtoolsd.service" md5="a544bdc3995d60a792dc9e55d1631946" size="460" mtime="1624544239"/>
+  <entry name="vmware-user-autostart-wrapper" md5="1bdae84409e5f11e0c6b57648a047c50" size="633" mtime="1417290156"/>
+  <entry name="vmware-user-autostart.desktop" md5="07d89e22131632a7e9a053c3b7ebd62d" size="115" mtime="1243113486"/>
+</directory>
