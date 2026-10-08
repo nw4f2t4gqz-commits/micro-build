@@ -1,2 +1,6 @@
 /prepared/
 /packages/candidates/*.rpm
+/media/
+/build/
+/verification/
+/kiwi-10.2.tar
